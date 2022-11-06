@@ -1,0 +1,6 @@
+certs
+db
+wordpress
+.idea
+.env
+.DS_Store
